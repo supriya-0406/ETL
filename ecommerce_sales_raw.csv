@@ -1,0 +1,124 @@
+order_id,order_date,customer_id,customer_name,city,product,category,quantity,unit_price,payment_method,order_status
+ORD1001,2025-03-13,CUST121,Diya,Chennai,Keyboard,Computer,5.0,1124.02,Debit Card,Delivered
+ORD1002,2025-05-11,CUST122,Ishaan,Hyderabad,Monitor,Accessories,4.0,11142.88,Credit Card,Delivered
+ORD1003,2025-01-22,CUST125,Aarav,Chennai,Keyboard,Computer,5.0,1228.2,Debit Card,Delivered
+ORD1004,2025-07-09,CUST103,,Chennai,Keyboard,Computer,4.0,1167.93,UPI,Delivered
+ORD1005,2025-01-14,CUST109,Diya,Pune,Phone,Accessories,4.0,27211.01,Cash,Delivered
+ORD1006,2025-02-04,CUST114,Aarav,Mumbai,Keyboard,Accessories,4.0,1198.84,Cash,Shipped
+ORD1007,2025-07-10,CUST118,Diya,Mumbai,Mouse,Accessories,2.0,608.12,Credit Card,Pending
+ORD1008,2025-10-23,CUST121,Ishaan,Hyderabad,Mouse,Computer,4.0,545.43,UPI,Delivered
+ORD1009,2025-02-10,CUST129,Ishaan,Bengaluru,Laptop,Electronics,4.0,56177.38,Debit Card,Delivered
+ORD1010,2025-03-04,CUST111,Rohan,,Laptop,Computer,4.0,52728.37,Debit Card,Shipped
+ORD1011,2025-02-10,CUST128,Aarav,Mumbai,Monitor,Accessories,2.0,11660.32,UPI,Delivered
+ORD1012,2025-08-02,CUST127,Rohan,Bengaluru,Mouse,Computer,5.0,627.55,UPI,Cancelled
+ORD1013,2025-09-12,CUST114,Rohan,Bengaluru,Headphones,Computer,1.0,1879.82,Debit Card,Delivered
+ORD1014,2025-08-19,CUST132,Meera,Pune,Keyboard,Computer,5.0,1128.41,Debit Card,Delivered
+ORD1015,2025-06-09,CUST107,Rohan,Chennai,Headphones,Accessories,5.0,1702.37,Cash,Cancelled
+ORD1016,2025-10-11,CUST128,Meera,Mumbai,Monitor,Accessories,,11053.19,Credit Card,Delivered
+ORD1017,2025-07-09,CUST133,Aarav,Bengaluru,Phone,Computer,4.0,24281.49,Credit Card,Delivered
+ORD1018,2025-07-17,CUST108,Rohan,Bengaluru,Monitor,Accessories,1.0,11531.48,UPI,Shipped
+ORD1019,2025-06-09,CUST132,Aarav,Mumbai,Phone,Electronics,4.0,23720.63,Credit Card,Cancelled
+ORD1020,2025-04-23,CUST137,Aarav,Bengaluru,Keyboard,Computer,4.0,1140.43,UPI,Cancelled
+ORD1021,2025-05-06,CUST102,Ishaan,Mumbai,Keyboard,Accessories,5.0,1162.82,Cash,Delivered
+ORD1022,2025-09-12,CUST138,Ishaan,Mumbai,Keyboard,Accessories,3.0,,Credit Card,Delivered
+ORD1023,2025-09-16,CUST120,Meera,Chennai,Laptop,Computer,1.0,53028.58,Credit Card,Delivered
+ORD1024,2025-05-08,CUST139,Diya,Bengaluru,Headphones,Computer,4.0,1852.26,Cash,Shipped
+ORD1025,2025-09-09,CUST116,Diya,Bengaluru,Phone,Electronics,2.0,23789.71,Credit Card,Cancelled
+ORD1026,2025-06-09,CUST109,Aarav,Chennai,Mouse,Computer,4.0,607.0,Cash,Pending
+ORD1027,2025-03-16,CUST108,Meera,Mumbai,Keyboard,Accessories,1.0,1234.09,Debit Card,Delivered
+ORD1028,15/02/2025,CUST135,Ishaan,Bengaluru,Laptop,Electronics,3.0,60210.3,Cash,Delivered
+ORD1029,2025-05-15,CUST103,Aarav,Bengaluru,Monitor,Computer,4.0,11679.53,Debit Card,Shipped
+ORD1030,2025-09-21,CUST127,Rohan,Hyderabad,Mouse,Electronics,5.0,598.41,Credit Card,Shipped
+ORD1031,2025-05-27,CUST104,Rohan,Bengaluru,Laptop,Electronics,5.0,52032.04,Cash,Cancelled
+ORD1032,2025-08-21,CUST137,Ishaan,Bengaluru,Monitor,Accessories,5.0,12920.39,UPI,Delivered
+ORD1033,2025-09-10,CUST121,Aarav,Chennai,Keyboard,Accessories,1.0,1098.08,UPI,Delivered
+ORD1034,invalid-date,CUST124,Diya,Hyderabad,Mouse,Computer,2.0,651.6,Debit Card,Delivered
+ORD1035,2025-10-26,CUST139,Ishaan,Hyderabad,Phone,Computer,1.0,26743.35,Credit Card,Pending
+ORD1036,2025-02-05,CUST120,Aarav,Mumbai,Laptop,Computer,5.0,50397.54,Debit Card,Delivered
+ORD1037,2025-02-20,CUST125,Diya,Pune,Phone,Accessories,2.0,24692.37,Credit Card,Pending
+ORD1038,2025-09-28,CUST137,Aarav,Pune,Laptop,Electronics,4.0,49927.18,Debit Card,Delivered
+ORD1039,2025-05-24,CUST113,Diya,Mumbai,Monitor,Accessories,4.0,11787.25,Credit Card,Delivered
+ORD1040,2025-08-17,CUST126,Ishaan, bangalore ,Headphones,Electronics,4.0,1887.86,UPI,Delivered
+ORD1041,2025-04-28,CUST125,Ishaan,Pune,Laptop,Electronics,2.0,52137.66,Cash,Delivered
+ORD1042,2025-03-17,CUST126,Rohan,Pune,Monitor,Accessories,5.0,11807.04,UPI,Delivered
+ORD1043,2025-04-04,CUST105,Meera,Hyderabad,Keyboard,Accessories,5.0,1102.6,Cash,Pending
+ORD1044,2025-01-23,CUST110,Anaya,Pune,Keyboard,Accessories,1.0,1191.52,Cash,Delivered
+ORD1045,2025-09-14,CUST105,Ishaan,Mumbai,Phone,Computer,3.0,25015.68,Credit Card,Delivered
+ORD1046,2025-06-27,CUST135,Meera,BANGALORE,Headphones,Electronics,4.0,1827.17,UPI,Delivered
+ORD1047,2025-06-17,CUST110,Rohan,Mumbai,Monitor,Electronics,4.0,11726.65,UPI,Delivered
+ORD1048,2025-08-30,CUST135,Aarav,Hyderabad,Mouse,Electronics,2.0,544.68,Credit Card,Shipped
+ORD1049,2025-07-15,CUST111,Ishaan,Mumbai,Mouse,Electronics,2.0,571.28,UPI,Cancelled
+ORD1050,2025-07-11,CUST135,Aarav,Chennai,Keyboard,Accessories,2.0,1181.63,UPI,Shipped
+ORD1051,2025-07-02,CUST113,Aarav,Chennai,Mouse,Electronics,5.0,568.63,Credit Card,Pending
+ORD1052,2025-07-06,CUST119,Aarav,Mumbai,Mouse,Electronics,4.0,639.17,upi,Pending
+ORD1053,2025-02-21,CUST119,Diya,Pune,Laptop,Electronics,4.0,59950.68,Debit Card,Shipped
+ORD1054,2025-02-22,CUST123,Aarav,Pune,Keyboard,Electronics,3.0,1131.05,Credit Card,Cancelled
+ORD1055,2025-08-03,CUST129,Rohan,Chennai,Mouse,Accessories,2.0,592.98,Debit Card,Delivered
+ORD1056,2025-09-10,CUST138,Anaya,Pune,Phone,Accessories,2.0,25591.09,UPI,Pending
+ORD1057,2025-06-14,CUST138,Rohan,Pune,Phone,Electronics,2.0,22906.74,Credit Card,Pending
+ORD1058,2025-03-11,CUST131,Rohan,Pune,Laptop,Accessories,5.0,57787.16,Debit Card,delivered
+ORD1059,2025-06-22,CUST113,Diya,Mumbai,Phone,Accessories,3.0,23055.99,Credit Card,Shipped
+ORD1060,2025-07-09,CUST125,Aarav,Pune,Monitor,Accessories,1.0,12586.11,Credit Card,Delivered
+ORD1061,2025-03-21,CUST121,Rohan,Mumbai,Monitor,Electronics,5.0,11574.45,Cash,Delivered
+ORD1062,2025-08-21,CUST114,Aarav,Pune,Keyboard,Accessories,1.0,1205.54,Credit Card,Delivered
+ORD1063,2025-08-12,CUST116,Anaya,Mumbai,Laptop,Electronics,3.0,52590.6,Cash,Delivered
+ORD1064,2025-06-27,CUST128,Meera,Pune,Keyboard,Electronics,-2.0,1173.18,Cash,Cancelled
+ORD1065,2025-07-31,CUST113,Meera,Pune,Mouse,Electronics,1.0,573.57,Credit Card,Delivered
+ORD1066,2025-07-16,CUST125,Diya,Hyderabad,Mouse,Accessories,2.0,590.0,Credit Card,Delivered
+ORD1067,2025-05-26,CUST132,Aarav,Chennai,Monitor,Electronics,1.0,12666.25,Credit Card,Delivered
+ORD1068,2025-04-08,CUST135,Aarav,Pune,Mouse,Computer,3.0,641.05,Credit Card,Shipped
+ORD1069,2025-01-23,CUST137,Ishaan,Pune,Monitor,Accessories,5.0,13191.93,Credit Card,Delivered
+ORD1070,2025-02-20,CUST113,Meera,Bengaluru,Monitor,Electronics,1.0,-500.0,Cash,Shipped
+ORD1071,2025-04-28,CUST103,Rohan,Hyderabad,Keyboard,Electronics,2.0,1199.56,Credit Card,Cancelled
+ORD1072,2025-04-22,CUST123,Ishaan,Pune,Mouse,Accessories,3.0,588.42,Credit Card,Pending
+ORD1073,2025-04-08,CUST118,Anaya,Chennai,Mouse,Computer,4.0,657.66,Debit Card,Shipped
+ORD1074,2025-01-30,CUST117,Ishaan,Pune,Laptop,Accessories,1.0,58120.18,Cash,Pending
+ORD1075,2025-03-10,CUST134,Anaya,Pune,Laptop,Accessories,4.0,50228.6,UPI,Delivered
+ORD1076,2025-09-06,CUST123,  Diya  ,Mumbai,Headphones,Electronics,3.0,1647.31,Debit Card,Pending
+ORD1077,2025-03-02,CUST119,Ishaan,Pune,Headphones,Accessories,5.0,1970.32,Cash,Delivered
+ORD1078,2025-05-13,CUST112,Diya,Hyderabad,Mouse,Electronics,5.0,605.85,Credit Card,Delivered
+ORD1079,2025-02-16,CUST122,Anaya,Chennai,Headphones,Computer,1.0,1653.22,Cash,Delivered
+ORD1080,2025-04-23,CUST135,Ishaan,Mumbai,Phone,Computer,4.0,26531.01,Debit Card,Delivered
+ORD1081,2025-03-19,CUST124,Diya,Pune,Mouse,Accessories,2.0,631.19,Credit Card,Delivered
+ORD1082,2025-08-26,CUST118,Diya,Chennai, laptop ,Computer,3.0,1942.27,Debit Card,Delivered
+ORD1083,2025-09-30,CUST139,Anaya,Hyderabad,Monitor,Accessories,4.0,10848.17,Cash,Delivered
+ORD1084,2025-03-08,CUST118,Meera,Hyderabad,Monitor,Computer,4.0,11937.53,Cash,Delivered
+ORD1085,2025-04-11,CUST106,Meera,Hyderabad,Keyboard,Accessories,3.0,1170.91,Debit Card,Delivered
+ORD1086,2025-05-30,CUST121,Anaya,Mumbai,Monitor,Accessories,5.0,13040.86,Debit Card,Delivered
+ORD1087,2025-08-31,CUST131,Ishaan,Mumbai,Mouse,Computer,1.0,549.63,Credit Card,Delivered
+,2025-05-14,CUST130,Anaya,Chennai,Keyboard,Accessories,3.0,1287.72,UPI,Shipped
+ORD1089,2025-10-27,CUST105,Anaya,Hyderabad,Headphones,Accessories,2.0,1720.79,Cash,Delivered
+ORD1090,2025-02-16,CUST101,Diya,Pune,Laptop,Accessories,4.0,52166.51,Debit Card,Cancelled
+ORD1091,2025-06-27,CUST110,Ishaan,Hyderabad,Monitor,Accessories,3.0,12225.32,UPI,Shipped
+ORD1092,2025-09-30,CUST109,Rohan,Chennai,Keyboard,Accessories,1.0,1113.32,Debit Card,Cancelled
+ORD1093,2025-05-17,CUST134,Meera,Chennai,Mouse,Computer,4.0,655.8,UPI,Shipped
+ORD1094,2025-09-24,CUST137,Anaya,Mumbai,Mouse,Accessories,4.0,641.02,Debit Card,Delivered
+ORD1095,2025-03-03,CUST104,Aarav,Pune,Monitor,Accessories,3.0,12396.47,UPI,Shipped
+ORD1096,2025-01-23,CUST115,Aarav,Bengaluru,Mouse,Electronics,3.0,614.89,UPI,Delivered
+ORD1097,2025-02-08,CUST106,Anaya,Chennai,Phone,Computer,5.0,27032.36,Debit Card,Delivered
+ORD1098,2025-08-19,CUST127,Meera,Pune,Keyboard,Accessories,5.0,1198.9,UPI,Delivered
+ORD1099,2025-09-11,CUST104,Anaya,Hyderabad,Monitor,Accessories,3.0,12585.47,UPI,Pending
+ORD1100,2025-08-16,CUST124,Meera,Pune,Laptop,Electronics,5.0,50716.95,UPI,Delivered
+ORD1101,2025-04-05,CUST136,Meera,Hyderabad,Keyboard,Computer,5.0,1252.81,Debit Card,Delivered
+ORD1102,2025-05-14,CUST108,Diya,Chennai,Headphones,Accessories,2.0,1743.31,UPI,Delivered
+ORD1103,2025-04-14,CUST112,Meera,Mumbai,Phone,Electronics,1.0,23780.08,Cash,Delivered
+ORD1104,2025-02-20,CUST129,Anaya,Bengaluru,Phone,Accessories,1.0,25381.44,Debit Card,Delivered
+ORD1105,2025-04-20,CUST136,Anaya,Bengaluru,Mouse,Electronics,5.0,658.18,Debit Card,Delivered
+ORD1106,2025-05-17,CUST110,Meera,Bengaluru,Headphones,Electronics,5.0,1756.55,Credit Card,Delivered
+ORD1107,2025-10-21,CUST102,Diya,Chennai,Keyboard,Accessories,1.0,1287.24,Debit Card,Delivered
+ORD1108,2025-06-28,CUST124,Aarav,Mumbai,Headphones,Accessories,3.0,1782.88,UPI,Pending
+ORD1109,2025-05-30,CUST126,Meera,Hyderabad,Laptop,Electronics,5.0,55886.47,UPI,Delivered
+ORD1110,2025-04-28,CUST122,Meera,Pune,Keyboard,Electronics,1.0,1115.68,Debit Card,Delivered
+ORD1111,2025-07-30,CUST132,Anaya,Pune,Monitor,Electronics,3.0,11303.77,UPI,Delivered
+ORD1112,2025-06-24,CUST102,Anaya,Mumbai,Headphones,Electronics,2.0,1725.86,Credit Card,Delivered
+ORD1113,2025-02-24,CUST139,Rohan,Hyderabad,Headphones,Accessories,4.0,1685.49,Debit Card,Shipped
+ORD1114,2025-10-15,CUST107,Ishaan,Bengaluru,Keyboard,Electronics,1.0,1086.09,Debit Card,Delivered
+ORD1115,2025-09-06,CUST137,Rohan,Chennai,Headphones,Electronics,5.0,1834.22,Cash,Delivered
+ORD1116,2025-03-19,CUST132,Anaya,Chennai,Phone,Electronics,3.0,23715.86,Credit Card,Delivered
+ORD1117,2025-05-31,CUST121,Rohan,Pune,Phone,Computer,2.0,22927.54,Cash,Shipped
+ORD1118,2025-07-16,CUST120,Rohan,Hyderabad,Phone,Computer,2.0,27053.12,Credit Card,Delivered
+ORD1119,2025-09-13,CUST130,Aarav,Hyderabad,Keyboard,Electronics,4.0,1229.8,Cash,Delivered
+ORD1120,2025-07-21,CUST130,Rohan,Bengaluru,Phone,Accessories,4.0,23200.57,Debit Card,Delivered
+ORD1006,2025-02-04,CUST114,Aarav,Mumbai,Keyboard,Accessories,4.0,1198.84,Cash,Shipped
+ORD1019,2025-06-09,CUST132,Aarav,Mumbai,Phone,Electronics,4.0,23720.63,Credit Card,Cancelled
+ORD1043,2025-04-04,CUST105,Meera,Hyderabad,Keyboard,Accessories,5.0,1102.6,Cash,Pending
